@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className='container'>
-      <div className='header'>Joshua Parungao</div>
+      <div className='header'>Header</div>
 
       <div className='content'>
         <div className='content1'>
@@ -30,7 +30,7 @@ function App() {
         </div>
       </div>
 
-      <div className='footer'>CPEITEL IT3B</div>
+      <div className='footer'>Footer</div>
     </div>
   )
 }
